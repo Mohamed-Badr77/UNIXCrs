@@ -1,2 +1,0 @@
-# UNIXCrs
-UNIX Coursera project
